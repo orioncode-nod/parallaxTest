@@ -11,13 +11,14 @@ Este proyecto es una demostración del efecto **Parallax** aplicado a fondos de 
 ---
 
 ##  Estructura del proyecto
-
+```
 /parallaxTest/
 ├── index.html
 ├── style.css
 └── img/
 └── prllx/
 └── 4.jpg
+```
 
 ##  Tecnologías utilizadas
 
