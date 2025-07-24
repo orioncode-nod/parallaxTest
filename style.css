@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  color: #fff;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+.container {
+  max-width: 1080px;
+  width: 100%;
+  margin: auto;
+  padding: 32px;
+}
+
+.center {
+  text-align: center;
+}
+
+.black {
+  background-color: #252525;
+}
+
+.parallax {
+  height: 500px;
+  background-image: url('./img/prllx/3.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.parallax.mini {
+  height: 250px;
+}
