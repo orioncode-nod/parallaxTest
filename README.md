@@ -6,7 +6,7 @@ Este proyecto es una demostración del efecto **Parallax** aplicado a fondos de 
 
 ##  Vista previa
 
-(https://orioncode-nod.github.io/parallaxTest/) 
+[Ver en GitHub Pages](https://orioncode-nod.github.io/parallaxTest/) 
 
 ---
 
